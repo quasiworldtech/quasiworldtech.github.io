@@ -64,11 +64,11 @@ body {
 
 logo {
   display: inline-block;
-  margin: 15px; /* margin: 20px was off */
+  margin: 110px; /* margin: 20px was off */
   float: left;
-  height: 60px;
+  height: 40px;
   width: auto; /* correct proportions to specified height */
-  border-radius: 50%; /* makes it a circle */
+  border-radius: 20%; /* makes it a circle */
 }
 
 h1, h2, h3, h4, h5, h6 {

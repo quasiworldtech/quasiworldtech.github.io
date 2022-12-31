@@ -12,7 +12,7 @@ body {
 
 .container {
   width: 90%;
-  max-width: 600px;
+  max-width: 700px;
   margin: 0 auto;
 }
 
@@ -37,14 +37,13 @@ li {
 
 header {
   background: rgba(0, 0, 0, 0.1);
-  width: 100%;
-  border-bottom: 1px dashed #b5e853;
-  padding: 20px 0;
-  margin: 0 0 40px 0;
+  width: 90%;
+  padding: 20px 10px;
+  margin: 10px 10px 10px 70px;
 }
 
 header h1 {
-  font-size: 30px;
+  font-size: 330px;
   line-height: 1.5;
   margin: 0 0 0 -40px;
   font-weight: bold;
